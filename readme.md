@@ -1,4 +1,4 @@
-# Project Title (Update)
+# Rust Journal and Calculator
 
 I wrote two projects to accomplish the goals of this module. The first program is a basic caluclator which made use of multiple functions
 to accomplish the basic operations of addition, subtraction, multiplication, and division. The second project is a journal application that allows for a user to save and load a journal. Once inside of the journal, they are able to create and view subject, and select a subject. Once in a subject, they are able to create and view entries.
