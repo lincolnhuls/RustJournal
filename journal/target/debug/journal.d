@@ -1,0 +1,1 @@
+C:\Users\16hue\Documents\RustJournal\journal\target\debug\journal.exe: C:\Users\16hue\Documents\RustJournal\journal\src\entry.rs C:\Users\16hue\Documents\RustJournal\journal\src\journal.rs C:\Users\16hue\Documents\RustJournal\journal\src\main.rs C:\Users\16hue\Documents\RustJournal\journal\src\subject.rs

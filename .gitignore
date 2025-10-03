@@ -1,0 +1,11 @@
+# Ignore build output
+/target/
+
+# Ignore backup and temporary files
+*.rs.bk
+*.swp
+*.tmp
+.DS_Store
+
+# Ignore journal.json in the journal folder
+/journal/journal.json
